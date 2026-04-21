@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "halilintarhieu@gmail.com",
+      "password": "$2a$10$yNcM9g7OfeE1bc7FMCN.ZO57SGFP36O/9Rav7.3EDPl2H7ZVcmhcC",
+      "username": "hiếu",
+      "rePassword": "098709",
+      "id": 1
+    },
+    {
+      "email": "Kiet206@gmail.com",
+      "password": "$2a$10$3z7kW.ST2vlsI.qURjKTzOgKzDgGZqKPOrXVEWurXGWDPYuirD8Qa",
+      "username": "kiệt",
+      "rePassword": "098709",
+      "id": 2
+    },
+    {
+      "email": "Hai206@gmail.com",
+      "password": "$2a$10$KI5s1gvOhyjVajSkp.Tkpuaz6U3JZ7u5nc3z6LvTOp3kSQPE9Rb96",
+      "username": "hải",
+      "rePassword": "",
+      "id": 3
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "slots": 3,
+      "description": "Xây dựng giao diện web bằng React",
+      "category": "IT"
+    },
+    {
+      "title": "UI/UX Designer update",
+      "slots": 10,
+      "description": "Thiết kế giao diện người dùng update",
+      "category": "Marketing",
+      "id": 2
+    },
+    {
+      "title": "Marketing Executive update",
+      "slots": 1,
+      "description": "Quản lý chiến dịch marketing update",
+      "category": "IT",
+      "id": 3
+    }
+  ]
+}
